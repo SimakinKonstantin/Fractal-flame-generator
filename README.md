@@ -17,7 +17,7 @@
 ### Выходные данные
 Изображение фрактального пламени (image.png)
 
-### Результаты работы программы с разным количеством горутин
+## Результаты работы программы с разным количеством горутин
 
 Тесты проводились на `intel core i3 7100: 2 ядра 4 потока`
 
@@ -42,3 +42,10 @@
 | Функции                                            | Disc        |
 | Кол-во горутин                                     | 8           | 
 | Время работы (не считая ввод данных пользователем) | 24.9100503s |
+
+## Результаты генерации
+<img width="1323" height="934" alt="image" src="https://github.com/user-attachments/assets/7653e347-b08d-4ce8-b8b7-1352fd296188" />
+<img width="1312" height="938" alt="image" src="https://github.com/user-attachments/assets/6a1f1805-3160-48d3-aca6-d1b1ebfb3dd9" />
+<img width="1384" height="933" alt="image" src="https://github.com/user-attachments/assets/5af4074e-5e3d-49b0-9be8-34cd51d4013a" />
+
+
